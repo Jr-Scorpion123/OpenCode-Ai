@@ -1,0 +1,2 @@
+# No third-party Python packages are required.
+# install.py uses only Python's standard library.
